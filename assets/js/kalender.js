@@ -54,7 +54,7 @@ $('.card').click(function(){
 cardContent = [
     [
         "Een verrassing speciaal voor jou!🎄",
-        "gY/c5rw",
+        "gY/c5rwXhL",
         "assets/img/d1.jpg"
     ],
 ]
