@@ -57,6 +57,11 @@ cardContent = [
         "gY/c5rwXhL",
         "assets/img/d1.jpg"
     ],
+    [
+        "Kenny says can you come share Christmas snacks with him 🐨🍫",
+        "Y4xOyvqfFx",
+        "assets/img/d2.jpg"
+    ],
 ]
 
 naughtyContent = [
