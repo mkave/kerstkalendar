@@ -62,6 +62,11 @@ cardContent = [
         "Y4xOyvqfFx",
         "assets/img/d2.jpg"
     ],
+    [
+        "The weather forecast for next Christmas is 143% snuggles with a chance of little Christmas koalas 🎄🐨",
+        "pnQa+OWYrj",
+        "assets/img/d3.jpg"
+    ],
 ]
 
 naughtyContent = [
