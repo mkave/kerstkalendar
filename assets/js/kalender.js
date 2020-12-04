@@ -67,6 +67,11 @@ cardContent = [
         "pnQa+OWYrj",
         "assets/img/d3.jpg"
     ],
+    [
+        "Time for firey snuggles 🔥🔥🔥",
+        "h/QlfcahMd",
+        "assets/img/d4.jpg"
+    ],
 ]
 
 naughtyContent = [
