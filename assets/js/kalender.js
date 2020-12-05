@@ -72,6 +72,11 @@ cardContent = [
         "h/QlfcahMd",
         "assets/img/d4.jpg"
     ],
+    [
+        "Why didn't the koala get the job? Because he was too koalified 💼🐨",
+        "h/QlfcahMd",
+        "assets/img/d5.jpg"
+    ],
 ]
 
 naughtyContent = [
