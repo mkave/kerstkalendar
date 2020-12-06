@@ -77,6 +77,11 @@ cardContent = [
         "ybXpifyymm",
         "assets/img/d5.jpg"
     ],
+    [
+        "On the 6th day of Christmas, the koala needed a little nap, cause he was a sleepy head 🐨😴",
+        "UJ69pPGWZs",
+        "assets/img/d6.jpg"
+    ],
 ]
 
 naughtyContent = [
