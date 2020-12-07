@@ -82,6 +82,11 @@ cardContent = [
         "UJ69pPGWZs",
         "assets/img/d6.jpg"
     ],
+    [
+        "Kenny says you don't got to worry about the tree because koalas know a lot about trees and he's got it all under control 🐨🎄",
+        "BVM84+OSYS",
+        "assets/img/d7.jpg"
+    ],
 ]
 
 naughtyContent = [
