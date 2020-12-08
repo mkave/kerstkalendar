@@ -87,6 +87,11 @@ cardContent = [
         "BVM84+OSYS",
         "assets/img/d7.jpg"
     ],
+    [
+        "Koalas are bears 🐨🧸",
+        "nBvBCUPCNf",
+        "assets/img/d8.jpg"
+    ],
 ]
 
 naughtyContent = [
