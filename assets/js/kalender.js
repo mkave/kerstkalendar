@@ -93,7 +93,7 @@ cardContent = [
         "assets/img/d8.jpg"
     ],
     [
-        "🐨🎅 Kenny wants you to meet his friend, Santa Claws",
+        "🐨🎅 Kenny wants you to meet his friend, Santa Claws: https://www.youtube.com/watch?v=ijRe4zvSFn4&t=24s",
         "04jspMa15G",
         "assets/img/d9.jpg"
     ],
