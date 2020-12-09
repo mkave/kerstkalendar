@@ -92,6 +92,11 @@ cardContent = [
         "nBvBCUPCNf",
         "assets/img/d8.jpg"
     ],
+    [
+        "🐨🎅 Kenny wants you to meet his friend, Santa Claws",
+        "04jspMa15G",
+        "assets/img/d9.jpg"
+    ],
 ]
 
 naughtyContent = [
