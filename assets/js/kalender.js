@@ -97,6 +97,16 @@ cardContent = [
         "04jspMa15G",
         "assets/img/d9.jpg"
     ],
+    [
+        "🐨🐨🐨🐨🐨🐨🐨🐨🐨🐨",
+        "7LU6kawbJt",
+        "assets/img/d10.jpg"
+    ],
+    [
+        "Kenny wants you to hold his little paw",
+        "iwlOED/LcG",
+        "assets/img/d11.jpg"
+    ],
 ]
 
 naughtyContent = [
