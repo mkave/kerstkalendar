@@ -107,6 +107,16 @@ cardContent = [
         "iwlOED/LcG",
         "assets/img/d11.jpg"
     ],
+    [
+        "Little vipers on the Christmas Tree 🚀🎄",
+        "JUBMRzX5Hu",
+        "assets/img/d12.jpg"
+    ],
+    [
+        "Little battlestars on the Christmas Tree too 🚀🎄",
+        "MI+R95Y4u5",
+        "assets/img/d13.jpg"
+    ],
 ]
 
 naughtyContent = [
