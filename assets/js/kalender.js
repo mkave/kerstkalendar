@@ -117,6 +117,21 @@ cardContent = [
         "MI+R95Y4u5",
         "assets/img/d13.jpg"
     ],
+    [
+        "Kennys's chosen the gingerbread house he wants you to build with him 🐨🏰",
+        "DrvVTGF/O2",
+        "assets/img/d14.jpg"
+    ],
+    [
+        "And a spaceship gingerbread 🚀",
+        "+/d218MQEu",
+        "assets/img/d15.jpg"
+    ],
+    [
+        "And he's already working on the koala gingerbreads too 🐨",
+        "85U4WqNS3Y",
+        "assets/img/d16.jpg"
+    ],
 ]
 
 naughtyContent = [
