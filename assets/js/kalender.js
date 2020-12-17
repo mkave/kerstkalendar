@@ -132,6 +132,11 @@ cardContent = [
         "85U4WqNS3Y",
         "assets/img/d16.jpg"
     ],
+    [
+        "Kenny has an important question about why no one makes snow koalas ☃",
+        "MPl+aJa1Re",
+        "assets/img/d17.jpg"
+    ],
 ]
 
 naughtyContent = [
