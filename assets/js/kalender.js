@@ -137,6 +137,26 @@ cardContent = [
         "MPl+aJa1Re",
         "assets/img/d17.jpg"
     ],
+     [
+        "Kenny says he's gonna make some flowers for your mama 🌷",
+        "Vy83qkcNPf",
+        "assets/img/d18.jpg"
+    ],
+     [
+        "🐨 This one was just too cute not to put in the kalender",
+        "ux/o6JNR1U",
+        "assets/img/d19.jpg"
+    ],
+     [
+        "This one just makes me think of the super snuggley jigsaw cuddles 🧩",
+        "qyUILcRX98",
+        "assets/img/d20.jpg"
+    ],
+     [
+        "Just gonna give you this and you can take care of it for me ❤",
+        "LboomX4c0m",
+        "assets/img/d21.jpg"
+    ],
 ]
 
 naughtyContent = [
