@@ -152,11 +152,26 @@ cardContent = [
         "qyUILcRX98",
         "assets/img/d20.jpg"
     ],
-     [
+    [
         "Just gonna give you this and you can take care of it for me ❤",
         "LboomX4c0m",
         "assets/img/d21.jpg"
     ],
+    [
+        "Kenny says he heard you needed a kung fu koala 🥋🐨",
+        "GnvnceAzkh",
+        "assets/img/d22.jpg"
+    ],
+    [
+        "Can't wait to have a christmas at the cabin with you all cosy by the fire 🔥",
+        "R5Sp2KKMPq",
+        "assets/img/d23.jpg"
+    ],
+     [
+        "Kenny has left the snacks out for santa and rudolph 🥕🎅",
+        "wr7XsMkaNO",
+        "assets/img/d24.jpg"
+    ]
 ]
 
 naughtyContent = [
