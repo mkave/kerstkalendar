@@ -171,6 +171,11 @@ cardContent = [
         "Kenny has left the snacks out for santa and rudolph 🥕🎅",
         "wr7XsMkaNO",
         "assets/img/d24.jpg"
+    ],
+    [   
+        "Kenny says his favourite encryption is 128-bit AES and his secret passcode is 142 🐨💻",
+        "9fTwsa",
+        "assets/img/d24.jpg"
     ]
 ]
 
@@ -187,5 +192,5 @@ naughtyContent = [
     [
         "Kenny's run the data and he says it isn't this date yet 🐨📅",
         "assets/img/kia3.jpg"
-    ],
+    ]
 ]
