@@ -175,7 +175,7 @@ cardContent = [
     [   
         "Kenny says his favourite encryption is 128-bit AES and his secret passcode is 142 🐨💻",
         "9fTwsa",
-        "assets/img/d24.jpg"
+        "assets/img/d25.jpg"
     ]
 ]
 
